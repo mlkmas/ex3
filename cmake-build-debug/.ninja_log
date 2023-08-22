@@ -1,0 +1,8 @@
+# ninja log v5
+53	2271	7081836254445373	CMakeFiles/untitled23.dir/twst1h.cpp.obj	2a27cf1def12b9f8
+3	519	7081899291415464	CMakeFiles/untitled23.dir/main.cpp.obj	8bbec97c1d4879c4
+24	2284	7081836254473083	CMakeFiles/untitled23.dir/HealthPoints.cpp.obj	3261dd81443ff6fe
+32	2294	7081836254512986	CMakeFiles/untitled23.dir/test.cpp.obj	aacd9ec4732446c1
+519	658	7081899292769174	untitled23.exe	f668a92dc296369
+9	578	7081838782509253	CMakeFiles/untitled23.dir/testqueue.cpp.obj	b6ae5581b44d55e2
+2	405	7085218450397279	build.ninja	b4858608fdfe3dc0
